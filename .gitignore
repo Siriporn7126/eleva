@@ -6,3 +6,4 @@ build/
 .env
 *.tmp
 tmp/
+.pytest_cache/
